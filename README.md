@@ -1,4 +1,4 @@
-"# BrowserCacheHandling" 
+# BrowserCacheHandling
 
 Browser Chache Handling Chrome Extension
 
